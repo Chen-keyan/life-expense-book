@@ -1,0 +1,12 @@
+# 账本数据：里面是你自己的消费记录，不要传上 GitHub
+data.db
+
+# 服务器运行日志
+server.log
+
+# Python 垃圾
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
